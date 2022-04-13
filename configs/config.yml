@@ -1,0 +1,2 @@
+port: "8080"
+con: "postgres://postgres:22334455@localhost:5432/kahoot?sslmode=disable"
